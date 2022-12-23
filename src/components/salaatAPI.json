@@ -1,0 +1,40 @@
+{
+    "data": {
+        "2022-05-25": {
+            "sihori": "2022-05-25 04:29:34",
+            "fajr": "2022-05-25 05:05:13",
+            "sunrise": "2022-05-25 05:44:34",
+            "zawaal": "2022-05-25 12:26:48",
+            "zohr_end": "2022-05-25 14:40:52",
+            "asr_end": "2022-05-25 16:54:56",
+            "maghrib": "2022-05-25 19:09:02",
+            "maghrib_end": "2022-05-25 19:19:02",
+            "nisful_layl": "2022-05-26 00:26:48",
+            "nisful_layl_end": "2022-05-26 01:19:48",
+            "debug_civil_rise": "2022-05-25 05:19:51",
+            "debug_nautical_rise": "2022-05-25 04:50:20",
+            "debug_fajr_rise": "2022-05-25 05:05:13",
+            "debug_normal_rise": "2022-05-25 05:44:34",
+            "debug_sunset": "2022-05-25 19:09:02",
+            "debug_p_civil_rise": "2022-05-24 05:20:10",
+            "debug_p_nautical_rise": "2022-05-24 04:50:42",
+            "debug_p_fajr_rise": "2022-05-24 05:05:32",
+            "debug_p_normal_rise": "2022-05-24 05:44:50",
+            "debug_p_sunset": "2022-05-24 19:08:34",
+            "debug_nightGhari": "1970-01-01 06:23:00",
+            "debug_dayGhari": "1970-01-01 06:37:02",
+            "debug_sunrise75": "2022-05-25 04:29:34",
+            "debug_nineDegTriggered": "1970-01-01 05:30:01"
+        }
+    },
+    "meta": {
+        "timezone": "Asia\/Kolkata",
+        "timezone_offset": 19800,
+        "timezone_offset_string": "+05:30",
+        "start": "2022-05-25",
+        "end": "2022-05-25",
+        "latitude": "23.3315",
+        "longitude": "75.04222",
+        "altitude": 0
+    }
+}
